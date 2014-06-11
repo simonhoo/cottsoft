@@ -24,5 +24,8 @@
   	<module>com.cottsoft.demo.ssi</module>
   	<module>com.cottsoft.demo.extjs</module>
   	<module>com.cottsoft.demo.jquery</module>
+  	<module>com.cottsoft.weixin</module>
+  	<module>com.cottsoft.sso</module>
+  	<module>com.cottsoft.oauth20</module>
   </modules>
 </project>
