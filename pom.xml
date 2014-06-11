@@ -10,5 +10,6 @@
   	<module>com.cottsoft.common</module>
   	<module>com.cottsoft.io</module>
   	<module>com.cottsoft.demo</module>
+  	<module>com.cottsoft.pattern</module>
   </modules>
 </project>
