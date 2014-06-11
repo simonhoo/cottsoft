@@ -9,5 +9,6 @@
   <modules>
   	<module>com.cottsoft.common</module>
   	<module>com.cottsoft.io</module>
+  	<module>com.cottsoft.demo</module>
   </modules>
 </project>
