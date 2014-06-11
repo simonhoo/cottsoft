@@ -28,5 +28,6 @@
   	<module>com.cottsoft.sso</module>
   	<module>com.cottsoft.oauth20</module>
   	<module>com.cottsoft.mina</module>
+  	<module>com.cottsoft.netty</module>
   </modules>
 </project>
