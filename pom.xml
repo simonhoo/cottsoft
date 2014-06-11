@@ -29,5 +29,6 @@
   	<module>com.cottsoft.oauth20</module>
   	<module>com.cottsoft.mina</module>
   	<module>com.cottsoft.netty</module>
+  	<module>com.cottsoft.gis</module>
   </modules>
 </project>
