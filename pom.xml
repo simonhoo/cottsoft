@@ -11,5 +11,18 @@
   	<module>com.cottsoft.io</module>
   	<module>com.cottsoft.demo</module>
   	<module>com.cottsoft.pattern</module>
+  	<module>com.cottsoft.demo.spring</module>
+  	<module>com.cottsoft.demo.struts1</module>
+  	<module>com.cottsoft.demo.struts2</module>
+  	<module>com.cottsoft.demo.springmvc</module>
+  	<module>com.cottsoft.demo.hibernate</module>
+  	<module>com.cottsoft.demo.mybatis</module>
+  	<module>com.cottsoft.demo.servlet</module>
+  	<module>com.cottsoft.demo.jdbc</module>
+  	<module>com.cottsoft.demo.minidao</module>
+  	<module>com.cottsoft.demo.ssh</module>
+  	<module>com.cottsoft.demo.ssi</module>
+  	<module>com.cottsoft.demo.extjs</module>
+  	<module>com.cottsoft.demo.jquery</module>
   </modules>
 </project>
