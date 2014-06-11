@@ -27,5 +27,6 @@
   	<module>com.cottsoft.weixin</module>
   	<module>com.cottsoft.sso</module>
   	<module>com.cottsoft.oauth20</module>
+  	<module>com.cottsoft.mina</module>
   </modules>
 </project>
