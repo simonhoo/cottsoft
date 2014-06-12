@@ -33,5 +33,7 @@
   	<module>com.cottsoft.soa.mule</module>
   	<module>com.cottsoft.soa.wso2</module>
   	<module>com.cottsoft.web</module>
+  	<module>com.cottsoft.workflow.jbpm</module>
+  	<module>com.cottsoft.workflow.activiti</module>
   </modules>
 </project>
