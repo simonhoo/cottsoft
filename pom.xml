@@ -32,5 +32,6 @@
   	<module>com.cottsoft.gis</module>
   	<module>com.cottsoft.soa.mule</module>
   	<module>com.cottsoft.soa.wso2</module>
+  	<module>com.cottsoft.web</module>
   </modules>
 </project>
