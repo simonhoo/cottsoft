@@ -30,5 +30,7 @@
   	<module>com.cottsoft.mina</module>
   	<module>com.cottsoft.netty</module>
   	<module>com.cottsoft.gis</module>
+  	<module>com.cottsoft.soa.mule</module>
+  	<module>com.cottsoft.soa.wso2</module>
   </modules>
 </project>
