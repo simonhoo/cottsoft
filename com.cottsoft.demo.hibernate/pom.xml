@@ -9,4 +9,15 @@
   <artifactId>com.cottsoft.demo.hibernate</artifactId>
   <name>cottsoft hibernate</name>
   <description>The hibernate of cottsoft from cottsoft.com</description>
+  
+  <dependencies>
+		<!-- 内部模块 -->
+		<!-- 公共模块 -->
+		<dependency>
+			<groupId>com.cottsoft.common</groupId>
+			<artifactId>com.cottsoft.common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
+	
 </project>

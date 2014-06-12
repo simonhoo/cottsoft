@@ -10,4 +10,14 @@
 	<artifactId>com.cottsoft.pattern</artifactId>
 	<name>cottsoft pattern demo</name>
 	<description>The pattern demo of cottsoft from cottsoft.com.</description>
+
+	<dependencies>
+		<!-- 内部模块 -->
+		<!-- 公共模块 -->
+		<dependency>
+			<groupId>com.cottsoft.common</groupId>
+			<artifactId>com.cottsoft.common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
 </project>

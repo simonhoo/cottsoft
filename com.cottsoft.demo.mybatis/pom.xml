@@ -9,4 +9,14 @@
   <artifactId>com.cottsoft.demo.mybatis</artifactId>
   <name>cottsoft mybatis</name>
   <description>The mybatis of cottsoft from cottsoft.com.</description>
+  
+  <dependencies>
+		<!-- 内部模块 -->
+		<!-- 公共模块 -->
+		<dependency>
+			<groupId>com.cottsoft.common</groupId>
+			<artifactId>com.cottsoft.common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
 </project>

@@ -12,6 +12,15 @@
 	<description>The I/O of cottsoft from cottsoft.com.</description>
 
 	<dependencies>
+		<!-- 内部模块 -->
+		<!-- 公共模块 -->
+		<dependency>
+			<groupId>com.cottsoft.common</groupId>
+			<artifactId>com.cottsoft.common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		
+		<!-- POI -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>

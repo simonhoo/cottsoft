@@ -36,6 +36,7 @@
 		<module>com.cottsoft.web</module>
 		<module>com.cottsoft.workflow.jbpm</module>
 		<module>com.cottsoft.workflow.activiti</module>
+		<module>com.cottsoft.log</module>
 	</modules>
 	
 	<dependencies>
@@ -46,39 +47,7 @@
 			<version>4.8.2</version>
 			<scope>test</scope>
 		</dependency>
-		
-		<!-- 日志 -->
-		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.16</version>
-			<type>jar</type>
-			<scope>compile</scope>
-			<exclusions>
-				<exclusion>
-					<groupId>com.sun.jmx</groupId>
-					<artifactId>jmxri</artifactId>
-				</exclusion>
-				<exclusion>
-					<groupId>com.sun.jdmk</groupId>
-					<artifactId>jmxtools</artifactId>
-				</exclusion>
-				<exclusion>
-					<groupId>javax.jms</groupId>
-					<artifactId>jms</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-api</artifactId>
-			<version>1.7.5</version>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.5</version>
-		</dependency>
+
 	</dependencies>
 	
 	<build>

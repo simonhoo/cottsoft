@@ -1,12 +1,23 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parent>
-    <groupId>com.cottsoft</groupId>
-    <artifactId>com.cottsoft</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-  </parent>
-  <groupId>com.cottsoft.demo.ssi</groupId>
-  <artifactId>com.cottsoft.demo.ssi</artifactId>
-  <name>cottsoft ssi</name>
-  <description>The SSI of cottsoft from cottsoft.com.</description>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.cottsoft</groupId>
+		<artifactId>com.cottsoft</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>com.cottsoft.demo.ssi</groupId>
+	<artifactId>com.cottsoft.demo.ssi</artifactId>
+	<name>cottsoft ssi</name>
+	<description>The SSI of cottsoft from cottsoft.com.</description>
+
+	<dependencies>
+		<!-- 内部模块 -->
+		<!-- 公共模块 -->
+		<dependency>
+			<groupId>com.cottsoft.common</groupId>
+			<artifactId>com.cottsoft.common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+	</dependencies>
 </project>
