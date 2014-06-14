@@ -37,6 +37,7 @@
 		<module>com.cottsoft.workflow.jbpm</module>
 		<module>com.cottsoft.workflow.activiti</module>
 		<module>com.cottsoft.log</module>
+		<module>com.cottsoft.demo.tddl</module>
 	</modules>
 	
 	<dependencies>
