@@ -11,6 +11,10 @@
 	<name>cottsoft tddl</name>
 	<description>The TDDL (Taobao Distributed Data Layer) of cottsoft from cottsoft.com</description>
 	
+	<properties>
+		<com.taobao.tddl.version>3.0.1.5.taobaocode-SNAPSHOT</com.taobao.tddl.version>
+	</properties>
+	
 	<dependencies>
 		<!-- 内部模块 -->
 		<!-- 公共模块 -->
@@ -18,6 +22,18 @@
 			<groupId>com.cottsoft.common</groupId>
 			<artifactId>com.cottsoft.common</artifactId>
 			<version>${project.version}</version>
+		</dependency>
+		
+		<!-- TDDL(Taobao Distributed Data Layer) -->
+		<dependency>
+			<groupId>com.taobao.tddl</groupId>
+			<artifactId>tddl-group-datasource</artifactId>
+			<version>${com.taobao.tddl.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.taobao.tddl</groupId>
+			<artifactId>tddl-atom-datasource</artifactId>
+			<version>${com.taobao.tddl.version}</version>
 		</dependency>
 	</dependencies>
 </project>
