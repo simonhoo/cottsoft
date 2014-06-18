@@ -38,6 +38,9 @@
 		<module>com.cottsoft.workflow.activiti</module>
 		<module>com.cottsoft.log</module>
 		<module>com.cottsoft.demo.tddl</module>
+		<module>com.cottsoft.nosql.redis</module>
+		<module>com.cottsoft.nosql.mongodb</module>
+		<module>com.cottsoft.nosql.memcached</module>
 	</modules>
 	
 	<dependencies>
