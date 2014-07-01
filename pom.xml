@@ -55,7 +55,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>BHSL</finalName>
+		<finalName>com.cottsoft</finalName>
 		<defaultGoal>compile</defaultGoal>
 
 		<pluginManagement>
