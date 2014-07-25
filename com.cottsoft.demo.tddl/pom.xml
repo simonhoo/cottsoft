@@ -24,7 +24,7 @@
 			<version>${project.version}</version>
 		</dependency>
 		
-		<!-- TDDL(Taobao Distributed Data Layer) -->
+		<!-- TDDL(Taobao Distributed Data Layer) 
 		<dependency>
 			<groupId>com.taobao.tddl</groupId>
 			<artifactId>tddl-group-datasource</artifactId>
@@ -35,5 +35,6 @@
 			<artifactId>tddl-atom-datasource</artifactId>
 			<version>${com.taobao.tddl.version}</version>
 		</dependency>
+		-->
 	</dependencies>
 </project>
