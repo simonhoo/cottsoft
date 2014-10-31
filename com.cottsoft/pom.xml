@@ -8,6 +8,11 @@
 	<name>工具箱</name>
 	<description>工具箱</description>
 	
+	<modules>
+		<module>com.cottsoft.log</module>
+		<module>com.cottsoft.common</module>	
+	</modules>
+	
 	<dependencies>
 		<!-- 测试依赖 -->
 		<dependency>
