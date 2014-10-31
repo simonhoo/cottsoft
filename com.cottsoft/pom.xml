@@ -10,7 +10,8 @@
 	
 	<modules>
 		<module>com.cottsoft.log</module>
-		<module>com.cottsoft.common</module>	
+		<module>com.cottsoft.common</module>
+		<module>com.cottsoft.io</module>
 	</modules>
 	
 	<dependencies>
